@@ -1,0 +1,7 @@
+streamlit
+fastapi
+uvicorn
+pillow
+pytesseract
+pdf2image
+requests
